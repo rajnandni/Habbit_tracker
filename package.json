@@ -1,0 +1,24 @@
+{
+  "name": "habit-tracker",
+  "version": "1.0.0",
+  "description": "This is a backend habit tracker application.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AjeetSingh",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "express-ejs-layouts": "^2.5.1",
+    "moment": "^2.29.4",
+    "mongoose": "^6.8.1",
+    "node": "^14.21.2",
+    "node-sass-middleware": "^1.0.1",
+    "node-tar.gz": "^1.0.0",
+    "nodemon": "^2.0.20",
+    "npm": "^6.14.6",
+    "sass": "^1.57.1"
+  }
+}
